@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Craft-Twig",
+		"DocBlockr",
+		"Emmet",
+		"FakeImg Image Placeholder Snippet",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"Material Theme",
+		"Nodejs",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Vue Syntax Highlight"
+	]
+}

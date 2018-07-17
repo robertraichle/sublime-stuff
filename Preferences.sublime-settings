@@ -1,0 +1,36 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_width": 2,
+	"show_encoding": true,
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"font_options": "subpixel_antialias",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"CSS"
+	],
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		90,
+		120,
+		120.1
+	],
+	"scroll_past_end": true,
+	"spacegray_sidebar_font_normal": true,
+	"spacegray_sidebar_tree_normal": true,
+	"spacegray_tabs_font_small": true,
+	"spacegray_tabs_large": true,
+	"tab_size": 2,
+	"use_tab_stops": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true,
+	"material_theme_accent_cyan": true,
+	"material_theme_accent_indigo": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_tab": true,
+	"theme": "Material-Theme.sublime-theme"
+}
