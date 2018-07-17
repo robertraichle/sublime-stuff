@@ -19,17 +19,14 @@
 - SublimeCodeIntel — https://packagecontrol.io/packages/SublimeCodeIntel
 - BracketHighlighter — https://packagecontrol.io/packages/BracketHighlighter
 - Sublime​Linter-jshint — https://packagecontrol.io/packages/SublimeLinter-jshint
-- Side​Bar​Enhancements — https://packagecontrol.io/packages/SideBarEnhancements
 - Vue Syntax Highlight — https://packagecontrol.io/packages/Vue%20Syntax%20Highlight
 - HTML-CSS-JS Prettify — https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify
+- Side​Bar​Enhancements — https://packagecontrol.io/packages/SideBarEnhancements
 - Fake​Img Image Placeholder Snippet — https://packagecontrol.io/packages/FakeImg%20Image%20Placeholder%20Snippet
 
 
 ### Packages Interested
 - Comment-Snippets — https://packagecontrol.io/packages/Comment-Snippets
 
- 
- 
- 
     
 _### Consider buying me a beer, thanks ;) !_
