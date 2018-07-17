@@ -14,8 +14,8 @@
 - SASS Build — https://packagecontrol.io/packages/SASS%20Build
 - Autoprefixer — https://packagecontrol.io/packages/Autoprefixer
 - Sublime​Linter — https://packagecontrol.io/packages/SublimeLinter
-- PackageControl — https://packagecontrol.io/packages/Package%20Control
 - Material Theme — https://packagecontrol.io/packages/Material%20Theme
+- PackageControl — https://packagecontrol.io/packages/Package%20Control
 - SublimeCodeIntel — https://packagecontrol.io/packages/SublimeCodeIntel
 - BracketHighlighter — https://packagecontrol.io/packages/BracketHighlighter
 - Sublime​Linter-jshint — https://packagecontrol.io/packages/SublimeLinter-jshint
