@@ -7,11 +7,11 @@
 - jQuery — https://packagecontrol.io/packages/jQuery
 - NodeJS — https://packagecontrol.io/packages/Nodejs
 - Git​Gutter — https://packagecontrol.io/packages/GitGutter
-- A File Icon — https://packagecontrol.io/packages/A%20File%20Icon
+- Craft-Twig — https://packagecontrol.io/packages/Craft-Twig
 - Doc​Blockr — https://packagecontrol.io/packages/DocBlockr
 - Alignment — https://packagecontrol.io/packages/Alignment
+- A File Icon — https://packagecontrol.io/packages/A%20File%20Icon
 - SASS Build — https://packagecontrol.io/packages/SASS%20Build
-- Craft-Twig — https://packagecontrol.io/packages/Craft-Twig
 - Autoprefixer — https://packagecontrol.io/packages/Autoprefixer
 - Sublime​Linter — https://packagecontrol.io/packages/SublimeLinter
 - PackageControl — https://packagecontrol.io/packages/Package%20Control
