@@ -3,8 +3,8 @@
 ### Packages Activated 
 - SFTP — https://packagecontrol.io/packages/SFTP
 - SASS — https://packagecontrol.io/packages/Sass
-- Emmet — https://packagecontrol.io/packages/Emmet
 - jQuery — https://packagecontrol.io/packages/jQuery
+- Emmet — https://packagecontrol.io/packages/Emmet
 - NodeJS — https://packagecontrol.io/packages/Nodejs
 - Git​Gutter — https://packagecontrol.io/packages/GitGutter
 - Craft-Twig — https://packagecontrol.io/packages/Craft-Twig
